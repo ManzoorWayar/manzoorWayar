@@ -24,11 +24,15 @@
 		<img height="50" src="https://miro.medium.com/max/1400/1*tOitxCwTNcS3ESstLylmtg.png" alt="Socket.io" title="Socket.io" />&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
+		<br>
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117447663-0fa16280-af3e-11eb-8677-bcf8e4f8e298.png" alt="CSS" title="CSS" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/121402101-c89df700-c959-11eb-8b4a-bbadf9e84b30.png" alt="Bootstrap" title="Bootstrap" 		/>	&nbsp;&nbsp;&nbsp;
 	<img height="50" width="70" src="https://adminlte.io/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2022/02/tailwindcss-templates.png" alt="tailwindcss  " 	title="tailwindcss  "/>&nbsp;&nbsp;&nbsp; 
 	<br>
+	<br>
+		<br>
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp 
 	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
@@ -36,6 +40,8 @@
 	<img height="50"  width="110" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="Nextjs" title="Nextjs" />&nbsp;&nbsp;&nbsp;
 	<img height="50"  width="110" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" title="typescript" />&nbsp;&nbsp;&nbsp;
 	<br>
+	<br>
+		<br>
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" title="Node" />&nbsp;&nbsp;&nbsp;
