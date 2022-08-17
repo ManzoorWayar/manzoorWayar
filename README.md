@@ -84,8 +84,8 @@
 <br>
 	<br>
 	<br> 
-	 <h1 align="center" style="color:red;"> My Github Skyline </h1>
-		<a align="center" href="https://skyline.github.com/ManzoorWayar/2021">  ;<img align="center" height="59"  width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"><a/>
+	 <h1 align="center" > My Github Skyline </h1>
+		<a align="center" style="margine-right:100px;" href="https://skyline.github.com/ManzoorWayar/2021"> <img align="center" height="59"  width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"><a/>
 	
 	
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
