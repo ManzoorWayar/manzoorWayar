@@ -29,7 +29,7 @@
 </p>
 
 <div>
-<h1 align="center">About Me/h1>
+<h1 align="center">About Me</h1>
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
