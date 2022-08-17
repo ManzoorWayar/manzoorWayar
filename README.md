@@ -1,30 +1,21 @@
 <h1 align="center"> Hi there👋, I'm Manzoor Ahmad Wayar</h1>
-<h3 align="center">A computer Sofware Engineer in Herat. 🤚</h3>
+<h3 align="center">A computer Sofware Engineer 🤚</h3>
 
-<p align="center">Currently 👦🏻, I am a  employee at Raha.net as backend Node Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I Can manage hard backend logics.</p>
+<p align="center">Software Engineer | Full-Stack Web Developer | Researcher </p>
 
 <div align="center">
 	<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
 <br>
 
-### 🛠 &nbsp;Tech Stack
-
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+### 🛠 &nbsp;Tech Stack: ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)\
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white)&nbsp;
-![Node](https://img.shields.io/badge/-Node-0512A?style=flat&logo=-Node&logoColor=white) &nbsp;
-![Express](https://img.shields.io/badge/-Express-983499?style=flat&logo=Express&logoColor=#FF2333) &nbsp;
-![Mongodb](https://img.shields.io/badge/mongodb-%2354532.svg?style=flat&logo=mongodb&logoColor=green)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 
 <h1 align="center">Manzoor Ahmad Wayar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SayeedMahdi&label=Profile%20views&color=1c1c1c&style=flat" alt="Mahdi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=SayeedMahdi&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" /> </p>
 
 ---
 
