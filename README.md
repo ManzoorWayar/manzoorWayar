@@ -8,16 +8,13 @@
 </div>
 <br>
 
-### 🛠 &nbsp;Tech Stack: ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+### 🛠 &nbsp;Tech Stack:     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 
-<h1 align="center">Manzoor Ahmad Wayar</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=SayeedMahdi&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" /> </p>
-
----
+<p align="cnter"> 
+	<img src="https://komarev.com/ghpvc/?username=manzoorWayar&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" /> 
+	<h1 align="center">Manzoor Ahmad Wayar</h1>
+</p>
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
