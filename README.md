@@ -109,7 +109,7 @@
 	<br>
 	<br>
 
-<h3 align="center" style="color:yellow">Connect with me</h3>
+<h3 align="center" style="color:yellow">Follow Along</h3>
 <p align="center">
 <a href="https://twitter.com/manzoor_wayar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/124/124021.png" alt="Manzoor Wayar" height="40" width="50" /></a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/manzoor-ahmad-wayar-781b59195" target="blank">
