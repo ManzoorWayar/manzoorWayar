@@ -70,7 +70,7 @@
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
-- 💻 All **my projects** are available [here](https://github.com/manzoorWayar)
+- 💻 All **my projects** are available [here](https://github.com/ManzoorWayar?tab=repositories)
 
 - 👯 I’m looking to collaborate on Web Projects
 
@@ -102,8 +102,10 @@
 
 <h3 align="center" style="color:yellow">Connect with me</h3>
 <p align="center">
-<a href="https://twitter.com/manzoor_wayar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Manzoor Wayar" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/manzoor-ahmad-wayar-781b59195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahira" height="30" width="40" /></a>
+<a href="https://twitter.com/manzoor_wayar" target="blank"><img align="center" src="https://static.vecteezy.com/system/resources/previews/002/534/045/original/social-media-twitter-logo-blue-isolated-free-vector.jpg" alt="Manzoor Wayar" height="30" width="40" /></a>
+	<a href="https://www.linkedin.com/in/manzoor-ahmad-wayar-781b59195" target="blank">
+	<img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="shahira" height="30" width="40" />
+	</a>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 	</p>
