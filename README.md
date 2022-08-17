@@ -55,8 +55,8 @@
 
 [![Manzoor Ahmad Wayar's Activity Graph](https://activity-graph.herokuapp.com/graph?username=manzoorWayar&custom_title=Manzoor%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/manzoorWayar/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/manzoor_wayar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Manzoor Wayar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manzoor-ahmad-wayar-781b59195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahira" height="30" width="40" /></a>
 </p>
