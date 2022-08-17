@@ -33,11 +33,6 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 	
 	
-	
-	
-	
-	
-	
 
  <h1 align="center"> About Me </h1>
 
@@ -54,6 +49,8 @@
 
 
 <br/>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h1 align="center"> My Statistics </h1>
 <p align="left">
