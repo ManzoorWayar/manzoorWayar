@@ -33,6 +33,7 @@
 	<br>
 	<br>
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="Node" title="Mongo" />&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Node" title="Nestjs" />&nbsp;&nbsp;&nbsp;
 </div>
 </p>
 
