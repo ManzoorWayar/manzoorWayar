@@ -3,6 +3,10 @@
 
 <p align="center">Software Engineer | Full-Stack Web Developer | Researcher </p>
 
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=manzoorWayar&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" />
+</p>
+
 <div align="center">
 	<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
@@ -10,11 +14,7 @@
 
 ### 🛠 &nbsp;Tech Stack:     ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-<p align="cnter"> 
-	<img src="https://komarev.com/ghpvc/?username=manzoorWayar&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" /> 
-	<h1 align="center">Manzoor Ahmad Wayar</h1>
-</p>
+<h1 align="center">Manzoor Ahmad Wayar</h1>
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
