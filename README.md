@@ -28,10 +28,7 @@
 - ✨ Interests: coding, reading books, footBall.
 
 
-
-
-### My Statistics
-
+<h1 align="center"> My Statistics </h1>
 <br/>
 <p align="left">
   <a href="https://github.com/manzoorWayar/">
