@@ -7,6 +7,8 @@
 	<img src="https://komarev.com/ghpvc/?username=manzoorWayar&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" />
 </p>
 
+<a href="https://skyline.github.com/ManzoorWayar/2021"> My 2021 Github SkyLine<a/>
+
 <div align="center">
 	<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
