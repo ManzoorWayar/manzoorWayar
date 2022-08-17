@@ -68,7 +68,7 @@
  <h1 align="center"> About Me </h1>
 	
 
-<a align="center" href="https://skyline.github.com/ManzoorWayar/2021"> My Github Skyline &nbsp;&nbsp;&nbsp; <img height="100"  width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"><a/>
+<a align="center" href="https://skyline.github.com/ManzoorWayar/2021"> My Github Skyline: &nbsp;&nbsp;&nbsp; <img height="59"  width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"><a/>
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
