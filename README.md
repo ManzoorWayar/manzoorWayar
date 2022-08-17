@@ -14,7 +14,7 @@
 </br>
  
 <h1 align="center">🛠 &nbsp;Tech Stack & Skills</h1>
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
+<a href="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git"></a>   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h1 align="center">Manzoor Ahmad Wayar</h1>
 
@@ -38,8 +38,6 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manzoorWayar&theme=algolia&hide_border=true" />
   </a>
 </p>
-<br>
-
 
 [![Manzoor Ahmad Wayar's Activity Graph](https://activity-graph.herokuapp.com/graph?username=manzoorWayar&custom_title=Manzoor%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/manzoorWayar/)
 
