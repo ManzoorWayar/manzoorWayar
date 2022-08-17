@@ -15,7 +15,8 @@
  
 <h1 align="center">🛠 Tech Stack & Skills</h1> 
 <p align="center">
-<div>
+<div>	<br>
+	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" 		title="Git" />&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" 		/>&nbsp;&nbsp;&nbsp;
 		<img height="50" src="https://miro.medium.com/max/723/1*vIQIILVkp48MzotGFO_4Yw.png" alt="visual Studio Code" title="visual Studio Code" />&nbsp;&nbsp;&nbsp;
@@ -47,6 +48,8 @@
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" title="Node" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://w7.pngwing.com/pngs/212/722/png-transparent-web-development-express-js-javascript-software-framework-laravel-world-wide-web-purple-blue-text.png" alt="Node" title="express" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Node" title="Nestjs" />&nbsp;&nbsp;&nbsp;
+	<br>
+		<br>
 	<br>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="Node" title="Mongo" />&nbsp;&nbsp;&nbsp;
