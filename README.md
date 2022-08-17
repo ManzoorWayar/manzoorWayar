@@ -10,9 +10,10 @@
 <div align="center">
 	<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </div>
-<br>
 
-### 🛠 &nbsp;Tech Stack:     
+</br>
+ 
+<h1 align="center">🛠 &nbsp;Tech Stack & Skills</h1>
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;   ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 <h1 align="center">Manzoor Ahmad Wayar</h1>
@@ -28,8 +29,9 @@
 - ✨ Interests: coding, reading books, footBall.
 
 
-<h1 align="center"> My Statistics </h1>
 <br/>
+
+<h1 align="center"> My Statistics </h1>
 <p align="left">
   <a href="https://github.com/manzoorWayar/">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=manzoorWayar&show_icons=true&theme=algolia&hide_border=true" />
