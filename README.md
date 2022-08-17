@@ -32,9 +32,9 @@
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp 
 	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-	<img height="50" width="170" src="https://www.sleeplessyogi.com/static/127b470a1814ca2ae06d9f40df34f190/reactjs.png" alt="Reactjs" title="Reactjs" />&nbsp;&nbsp;&nbsp;
-	<img height="50"  width="170" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="Nextjs" title="Nextjs" />&nbsp;&nbsp;&nbsp;
-	<img height="50"  width="170" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" title="typescript" />&nbsp;&nbsp;&nbsp;
+	<img height="50" width="110" src="https://www.sleeplessyogi.com/static/127b470a1814ca2ae06d9f40df34f190/reactjs.png" alt="Reactjs" title="Reactjs" />&nbsp;&nbsp;&nbsp;
+	<img height="50"  width="110" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="Nextjs" title="Nextjs" />&nbsp;&nbsp;&nbsp;
+	<img height="50"  width="110" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" title="typescript" />&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;
