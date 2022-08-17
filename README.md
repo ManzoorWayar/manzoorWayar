@@ -18,6 +18,10 @@
 <div>
 	&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/117364277-fc4eb280-aebd-11eb-8769-a3583c6a2037.png" alt="Git" 		title="Git" />&nbsp;&nbsp;
 	<img height="50" src="https://user-images.githubusercontent.com/25181517/117364276-fc4eb280-aebd-11eb-92ba-8a6ef74b7313.png" alt="GitHub" title="GitHub" 		/>&nbsp;&nbsp;&nbsp;
+		<img height="50" src="https://miro.medium.com/max/723/1*vIQIILVkp48MzotGFO_4Yw.png" alt="visual Studio Code" title="visual Studio Code" />&nbsp;&nbsp;&nbsp;
+		<img height="50" src="https://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" alt="Mongoose" title="Mongoose" />&nbsp;&nbsp;&nbsp;
+		<img height="50" src="https://res.cloudinary.com/practicaldev/image/fetch/s--hrh41qeV--/c_imagga_scale,f_auto,fl_progressive,h_500,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1s3bedypkt7zm8maikzg.png" alt="Rest API" title="RestAPI" />&nbsp;&nbsp;&nbsp;
+		<img height="50" src="https://miro.medium.com/max/1400/1*tOitxCwTNcS3ESstLylmtg.png" alt="Socket.io" title="Socket.io" />&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://user-images.githubusercontent.com/25181517/117447535-f00a3a00-af3d-11eb-89bf-45aaf56dbaf1.png" alt="HTML" title="HTML" />&nbsp;&nbsp;&nbsp;
@@ -27,9 +31,9 @@
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp 
 	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://www.sleeplessyogi.com/static/127b470a1814ca2ae06d9f40df34f190/reactjs.png" alt="Reactjs" title="Reactjs" />&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="Nextjs" title="Nextjs" />&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" title="typescript" />&nbsp;&nbsp;&nbsp;
+	<img height="50" width="70" src="https://www.sleeplessyogi.com/static/127b470a1814ca2ae06d9f40df34f190/reactjs.png" alt="Reactjs" title="Reactjs" />&nbsp;&nbsp;&nbsp;
+	<img height="50"  width="70" src="https://miro.medium.com/max/1000/1*htbUdWgFQ3a94PMEvBr_hQ.png" alt="Nextjs" title="Nextjs" />&nbsp;&nbsp;&nbsp;
+	<img height="50"  width="70" src="https://cdn.thenewstack.io/media/2022/01/10b88c68-typescript-logo.png" alt="Typescript" title="typescript" />&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp;
