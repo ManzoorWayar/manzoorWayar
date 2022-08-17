@@ -7,7 +7,7 @@
 	<img src="https://komarev.com/ghpvc/?username=manzoorWayar&label=Profile%20views&color=1c1c1c&style=flat" alt="manzoorWayar" />
 
 
-<a href="https://skyline.github.com/ManzoorWayar/2021"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"><a/>
+<a href="https://skyline.github.com/ManzoorWayar/2021"> <img height="50"  width="110" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"><a/>
 	</p>
 
 <div align="center">
