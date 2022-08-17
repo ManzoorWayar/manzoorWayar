@@ -50,6 +50,10 @@
 </div>
 
  
+<br>
+	<br>
+	<br>
+
 
  ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
@@ -62,6 +66,10 @@
 </p>
 
 [![Manzoor Ahmad Wayar's Activity Graph](https://activity-graph.herokuapp.com/graph?username=manzoorWayar&custom_title=Manzoor%27s%20Contribution%20Graph&theme=react-dark&hide_border=true&line=d1a01f&point=c58545)](https://github.com/manzoorWayar/)
+
+<br>
+	<br>
+	<br>
 
 <h3 align="center" style="color:yellow">Connect with me:</h3>
 <p align="center">
