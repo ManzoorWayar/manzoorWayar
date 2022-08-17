@@ -28,7 +28,8 @@
 </div>
 </p>
 
-<h1 align="center">Manzoor Ahmad Wayar</h1>
+<div>
+<h1 align="center">About Me/h1>
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
@@ -39,6 +40,7 @@
 - 📫 Reach me on: 📧 softwareengineerwayar@gmail.com
 
 - ✨ Interests: coding, reading books, footBall.
+</div>
 
 
 <br/>
