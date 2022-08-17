@@ -3,12 +3,8 @@
 
 <p align="center">Currently 👦🏻, I am a  employee at Raha.net as backend Node Developer. I have a great passion for learning languages, frameworks and new technologies. In addition to that, I Can manage hard backend logics.</p>
 
-<a href="https://www.youtube.com/watch?v=2cfV8cwz7wo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
-
 <div align="center">
 	<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
-
 </div>
 <br>
 
@@ -26,25 +22,21 @@
 ![Express](https://img.shields.io/badge/-Express-983499?style=flat&logo=Express&logoColor=#FF2333) &nbsp;
 ![Mongodb](https://img.shields.io/badge/mongodb-%2354532.svg?style=flat&logo=mongodb&logoColor=green)&nbsp;
 
-<h1 align="center">Sayeed Mahdi Mousavi</h1>
+<h1 align="center">Manzoor Ahmad Wayar</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SayeedMahdi&label=Profile%20views&color=1c1c1c&style=flat" alt="Mahdi" /> </p>
 
 ---
 
-- 🎓 I am in 6th Semester in Herat University.
+- 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
-- 👩‍💻 I’m currently working as backend deveoper in Rahanet.co
-
-- 🌱 I’m currently learning Javascript.
-
-- 💻 All **my projects** are available [here](https://github.com/SayeedMahdi)
+- 💻 All **my projects** are available [here](https://github.com/manzoorWayar)
 
 - 👯 I’m looking to collaborate on Web Projects
 
-- 📫 Reach me on: 📧 sayeedmahdimousavi789@gmail.com
+- 📫 Reach me on: 📧 softwareengineerwayar@gmail.com
 
-- ✨ Interests: coding, reading books, footBall, .
+- ✨ Interests: coding, reading books, footBall.
 
 
 
@@ -53,9 +45,9 @@
 
 <br/>
 <p align="left">
-  <a href="https://github.com/SayeedMahdi/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SayeedMahdi&show_icons=true&theme=algolia&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=SayeedMahdi&theme=algolia&hide_border=true" />
+  <a href="https://github.com/manzoorWayar/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=manzoorWayar&show_icons=true&theme=algolia&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=manzoorWayar&theme=algolia&hide_border=true" />
   </a>
 </p>
 <br>
