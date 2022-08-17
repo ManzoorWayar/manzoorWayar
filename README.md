@@ -85,7 +85,7 @@
 	<br>
 	<br> 
 	 <h1 align="center" > My Github Skyline </h1>
-		<a align="center" style="margine-right:100px;" href="https://skyline.github.com/ManzoorWayar/2021"> <pre><img align="center" height="50"  width="120" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"></pre>
+		<a align="center" style="margine-right:100px;" href="https://skyline.github.com/ManzoorWayar/2021"> <pre><img align="center" height="60"  width="140" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRph_2tGd67vIU_5pDfhseIYjD74bPGrDddJ8S93Vu5XmWpQ1myFtn0Fgc7v3-UXzPROfw&usqp=CAU"></pre>
 	<a/>
 	
 	
