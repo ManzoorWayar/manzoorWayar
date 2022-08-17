@@ -29,6 +29,8 @@
 </p>
 
 <div>
+	
+	![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 About Me
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
