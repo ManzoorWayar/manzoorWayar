@@ -75,6 +75,7 @@
 <a href="https://twitter.com/manzoor_wayar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Manzoor Wayar" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/manzoor-ahmad-wayar-781b59195" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shahira" height="30" width="40" /></a>
 </p>
+ ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
 
