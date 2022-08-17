@@ -26,19 +26,18 @@
 	<br>
 	<br>
 	&nbsp;&nbsp;&nbsp;&nbsp 
-	<img height="50" src="[https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg](https://github.com/get-icon/geticon/blob/master/icons/javascript.svg)" 		alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Node" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://github.com/get-icon/geticon/blob/master/icons/javascript.svg" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nextjs.svg" alt="Nextjs" title="Nextjs" />&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Node" title="JavaScript" />&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>
-	&nbsp;&nbsp;&nbsp;&nbsp;<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" title="Node" />&nbsp;&nbsp;&nbsp;
+	&nbsp;&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nodejs.svg" alt="Node" title="Node" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Node" title="express" />&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/nestjs.svg" alt="Node" title="Nestjs" />&nbsp;&nbsp;&nbsp;
 	<br>
 	<br>&nbsp;&nbsp;&nbsp;&nbsp;
 	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mongodb.svg" alt="Node" title="Mongo" />&nbsp;&nbsp;&nbsp;
-	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mySql.svg" alt="MySql" title="MySql" />&nbsp;&nbsp;&nbsp;
+	<img height="50" src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySql" title="MySql" />&nbsp;&nbsp;&nbsp;
 	
 </div>
 </p>
