@@ -30,8 +30,10 @@
 
 <div>
 	
-	![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
-About Me
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+	
+
+ <h1 align="center"> About Me </h1>
 
 - 👩‍💻 I’m currently working as Full-Stack deveoper in Rahanet.co
 
